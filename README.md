@@ -7,3 +7,7 @@
 Project 1: Expanding Cards
 
 - Complete
+
+Project 2: Progress Steps
+
+- Complete
