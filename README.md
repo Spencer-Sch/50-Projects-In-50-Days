@@ -40,6 +40,6 @@ Project 9: Sound Board
 
 - Complete
 
-Project 9: Dad Jokes
+Project 10: Dad Jokes
 
 - Complete
