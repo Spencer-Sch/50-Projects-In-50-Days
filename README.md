@@ -15,3 +15,7 @@ Project 2: Progress Steps
 Project 3: Rotating Navigation
 
 - Complete
+
+Project 4: Hidden Search
+
+- Complete
