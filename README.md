@@ -23,3 +23,7 @@ Project 4: Hidden Search
 Project 5: Blurry Loading
 
 - Complete
+
+Project 6: Scroll Animation
+
+- Complete
