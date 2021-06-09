@@ -39,3 +39,7 @@ Project 8: Form Wave Effect
 Project 9: Sound Board
 
 - Complete
+
+Project 9: Dad Jokes
+
+- Complete
