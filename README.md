@@ -27,3 +27,7 @@ Project 5: Blurry Loading
 Project 6: Scroll Animation
 
 - Complete
+
+Project 7: Split Loading Page
+
+- Complete
