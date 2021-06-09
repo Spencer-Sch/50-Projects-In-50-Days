@@ -35,3 +35,7 @@ Project 7: Split Loading Page
 Project 8: Form Wave Effect
 
 - Complete
+
+Project 9: Sound Board
+
+- Complete
