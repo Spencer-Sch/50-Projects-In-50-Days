@@ -31,3 +31,7 @@ Project 6: Scroll Animation
 Project 7: Split Loading Page
 
 - Complete
+
+Project 8: Form Wave Effect
+
+- Complete
