@@ -11,3 +11,7 @@ Project 1: Expanding Cards
 Project 2: Progress Steps
 
 - Complete
+
+Project 3: Rotating Navigation
+
+- Complete
