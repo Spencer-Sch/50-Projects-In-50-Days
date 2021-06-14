@@ -43,3 +43,7 @@ Project 9: Sound Board
 Project 10: Dad Jokes
 
 - Complete
+
+Project 11: Key Codes
+
+- Complete
