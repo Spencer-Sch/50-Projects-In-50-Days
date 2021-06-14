@@ -47,3 +47,7 @@ Project 10: Dad Jokes
 Project 11: Key Codes
 
 - Complete
+
+Project 12: FAQ Boxes
+
+- Complete
