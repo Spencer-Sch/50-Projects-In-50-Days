@@ -63,3 +63,7 @@ Project 14: Animated Navigation
 Project 15: Incrementing Counter
 
 - Complete
+
+Project 16: Water Intake Tracker
+
+- Complete
