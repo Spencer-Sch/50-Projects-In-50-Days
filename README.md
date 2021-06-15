@@ -51,3 +51,7 @@ Project 11: Key Codes
 Project 12: FAQ Boxes
 
 - Complete
+
+Project 13: Random Choice Picker
+
+- Complete
