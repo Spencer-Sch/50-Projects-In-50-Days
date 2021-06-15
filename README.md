@@ -59,3 +59,7 @@ Project 13: Random Choice Picker
 Project 14: Animated Navigation
 
 - Complete
+
+Project 15: Incrementing Counter
+
+- Complete
