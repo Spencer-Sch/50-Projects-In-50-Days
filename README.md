@@ -55,3 +55,7 @@ Project 12: FAQ Boxes
 Project 13: Random Choice Picker
 
 - Complete
+
+Project 14: Animated Navigation
+
+- Complete
