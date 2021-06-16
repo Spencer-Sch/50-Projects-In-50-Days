@@ -91,3 +91,7 @@ Project 21: Drag and Drop
 Project 22: Drawing App
 
 - Complete
+
+Project 23: Kinetic Loader
+
+- Complete
