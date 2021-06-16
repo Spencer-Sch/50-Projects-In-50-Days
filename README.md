@@ -99,3 +99,7 @@ Project 23: Kinetic Loader
 Project 24: Content Placeholder
 
 - Complete
+
+Project 25: Sticky Navbar
+
+- Complete
