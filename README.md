@@ -79,3 +79,7 @@ Project 18: Image Slider
 Project 19: Theme Clock
 
 - Complete
+
+Project 20: Button Ripple Effect
+
+- Complete
