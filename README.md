@@ -103,3 +103,7 @@ Project 24: Content Placeholder
 Project 25: Sticky Navbar
 
 - Complete
+
+Project 26: Double Vertical Slider
+
+- Complete
