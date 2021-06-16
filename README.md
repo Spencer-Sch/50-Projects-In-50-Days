@@ -71,3 +71,7 @@ Project 16: Water Intake Tracker
 Project 17: Movie App
 
 - Complete
+
+Project 18: Image Slider
+
+- Complete
