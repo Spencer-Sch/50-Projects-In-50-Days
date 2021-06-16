@@ -75,3 +75,7 @@ Project 17: Movie App
 Project 18: Image Slider
 
 - Complete
+
+Project 19: Theme Clock
+
+- Complete
