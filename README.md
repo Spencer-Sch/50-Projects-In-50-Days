@@ -95,3 +95,7 @@ Project 22: Drawing App
 Project 23: Kinetic Loader
 
 - Complete
+
+Project 24: Content Placeholder
+
+- Complete
