@@ -119,3 +119,7 @@ Project 28: Github Profiles
 Project 29: Double Click Heart
 
 - Complete
+
+Project 30: Auto Text Effect
+
+- Complete
