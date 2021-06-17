@@ -115,3 +115,7 @@ Project 27: Toast Notifications
 Project 28: Github Profiles
 
 - Complete
+
+Project 29: Double Click Heart
+
+- Complete
