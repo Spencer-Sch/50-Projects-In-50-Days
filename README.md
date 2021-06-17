@@ -107,3 +107,7 @@ Project 25: Sticky Navbar
 Project 26: Double Vertical Slider
 
 - Complete
+
+Project 27: Toast Notifications
+
+- Complete
