@@ -111,3 +111,7 @@ Project 26: Double Vertical Slider
 Project 27: Toast Notifications
 
 - Complete
+
+Project 28: Github Profiles
+
+- Complete
