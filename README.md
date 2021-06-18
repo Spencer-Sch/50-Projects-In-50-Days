@@ -143,3 +143,7 @@ Project 34: Animated Count Down
 Project 35: Image Carousel
 
 - Complete
+
+Project 36: Hoverboard
+
+- Complete
