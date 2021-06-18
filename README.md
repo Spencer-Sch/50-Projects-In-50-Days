@@ -127,3 +127,7 @@ Project 30: Auto Text Effect
 Project 31: Password Generator
 
 - Complete
+
+Project 32: Good, Cheap, Fast Checkboxes
+
+- Complete
