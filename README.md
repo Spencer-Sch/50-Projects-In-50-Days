@@ -123,3 +123,7 @@ Project 29: Double Click Heart
 Project 30: Auto Text Effect
 
 - Complete
+
+Project 31: Password Generator
+
+- Complete
