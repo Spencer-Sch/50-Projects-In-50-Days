@@ -135,3 +135,7 @@ Project 32: Good, Cheap, Fast Checkboxes
 Project 33: Notes App
 
 - Complete
+
+Project 34: Animated Count Down
+
+- Complete
