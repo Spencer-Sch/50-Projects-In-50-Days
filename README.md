@@ -147,3 +147,7 @@ Project 35: Image Carousel
 Project 36: Hoverboard
 
 - Complete
+
+Project 37: Pokedex
+
+- Complete
