@@ -155,3 +155,7 @@ Project 37: Pokedex
 Project 38: Mobile Navigation
 
 - Complete
+
+Project 39: Password Strength Background
+
+- Complete
