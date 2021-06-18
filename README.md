@@ -139,3 +139,7 @@ Project 33: Notes App
 Project 34: Animated Count Down
 
 - Complete
+
+Project 35: Image Carousel
+
+- Complete
