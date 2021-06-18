@@ -131,3 +131,7 @@ Project 31: Password Generator
 Project 32: Good, Cheap, Fast Checkboxes
 
 - Complete
+
+Project 33: Notes App
+
+- Complete
