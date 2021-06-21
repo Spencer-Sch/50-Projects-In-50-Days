@@ -163,3 +163,7 @@ Project 39: Password Strength Background
 Project 40: 3D background Boxes
 
 - Complete
+
+Project 41: Verify Account UI
+
+- Complete
