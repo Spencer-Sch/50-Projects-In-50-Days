@@ -175,3 +175,7 @@ Project 42: Live User Filter
 Project 43: Feedback UI Design
 
 - Complete
+
+Project 44: Custom Range Slider
+
+- Complete
