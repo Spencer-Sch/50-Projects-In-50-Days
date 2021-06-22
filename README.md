@@ -179,3 +179,7 @@ Project 43: Feedback UI Design
 Project 44: Custom Range Slider
 
 - Complete
+
+Project 45: Netflix Navigation
+
+- Complete
