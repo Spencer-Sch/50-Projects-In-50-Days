@@ -183,3 +183,7 @@ Project 44: Custom Range Slider
 Project 45: Netflix Navigation
 
 - Complete
+
+Project 46: Quiz App
+
+- Complete
