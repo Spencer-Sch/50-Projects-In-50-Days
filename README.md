@@ -187,3 +187,7 @@ Project 45: Netflix Navigation
 Project 46: Quiz App
 
 - Complete
+
+Project 47: Testimonial Box Switcher
+
+- Complete
