@@ -191,3 +191,7 @@ Project 46: Quiz App
 Project 47: Testimonial Box Switcher
 
 - Complete
+
+Project 48: Random Image Feed
+
+- Complete
