@@ -199,3 +199,9 @@ Project 48: Random Image Feed
 Project 49: Todo App
 
 - Complete
+
+Project 50: Insect Catch Game
+
+- Complete
+
+## COURSE COMPLETE!
