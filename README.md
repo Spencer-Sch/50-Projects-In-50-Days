@@ -195,3 +195,7 @@ Project 47: Testimonial Box Switcher
 Project 48: Random Image Feed
 
 - Complete
+
+Project 49: Todo App
+
+- Complete
