@@ -1,207 +1,219 @@
 # 50 Projects In 50 Days
 
-## Working through 50 projects to strengthen by HTML, CSS, and JavaScript skills
+#### by Brad Traversy
 
-### I will not be uploading code files out of respect for the instructors intellectual property
+[Udemy Link](https://www.udemy.com/course/50-projects-50-days/)
 
-Project 1: Expanding Cards
+---
 
-- Complete
+## Description
 
-Project 2: Progress Steps
+Tracking my progress through the course.
 
-- Complete
+---
 
-Project 3: Rotating Navigation
+## Course Sections
 
-- Complete
+#### Project 1: Expanding Cards
 
-Project 4: Hidden Search
+✅ Complete
 
-- Complete
+#### Project 2: Progress Steps
 
-Project 5: Blurry Loading
+✅ Complete
 
-- Complete
+#### Project 3: Rotating Navigation
 
-Project 6: Scroll Animation
+✅ Complete
 
-- Complete
+#### Project 4: Hidden Search
 
-Project 7: Split Loading Page
+✅ Complete
 
-- Complete
+#### Project 5: Blurry Loading
 
-Project 8: Form Wave Effect
+✅ Complete
 
-- Complete
+#### Project 6: Scroll Animation
 
-Project 9: Sound Board
+✅ Complete
 
-- Complete
+#### Project 7: Split Loading Page
 
-Project 10: Dad Jokes
+✅ Complete
 
-- Complete
+#### Project 8: Form Wave Effect
 
-Project 11: Key Codes
+✅ Complete
 
-- Complete
+#### Project 9: Sound Board
 
-Project 12: FAQ Boxes
+✅ Complete
 
-- Complete
+#### Project 10: Dad Jokes
 
-Project 13: Random Choice Picker
+✅ Complete
 
-- Complete
+#### Project 11: Key Codes
 
-Project 14: Animated Navigation
+✅ Complete
 
-- Complete
+#### Project 12: FAQ Boxes
 
-Project 15: Incrementing Counter
+✅ Complete
 
-- Complete
+#### Project 13: Random Choice Picker
 
-Project 16: Water Intake Tracker
+✅ Complete
 
-- Complete
+#### Project 14: Animated Navigation
 
-Project 17: Movie App
+✅ Complete
 
-- Complete
+#### Project 15: Incrementing Counter
 
-Project 18: Image Slider
+✅ Complete
 
-- Complete
+#### Project 16: Water Intake Tracker
 
-Project 19: Theme Clock
+✅ Complete
 
-- Complete
+#### Project 17: Movie App
 
-Project 20: Button Ripple Effect
+✅ Complete
 
-- Complete
+#### Project 18: Image Slider
 
-Project 21: Drag and Drop
+✅ Complete
 
-- Complete
+#### Project 19: Theme Clock
 
-Project 22: Drawing App
+✅ Complete
 
-- Complete
+#### Project 20: Button Ripple Effect
 
-Project 23: Kinetic Loader
+✅ Complete
 
-- Complete
+#### Project 21: Drag and Drop
 
-Project 24: Content Placeholder
+✅ Complete
 
-- Complete
+#### Project 22: Drawing App
 
-Project 25: Sticky Navbar
+✅ Complete
 
-- Complete
+#### Project 23: Kinetic Loader
 
-Project 26: Double Vertical Slider
+✅ Complete
 
-- Complete
+#### Project 24: Content Placeholder
 
-Project 27: Toast Notifications
+✅ Complete
 
-- Complete
+#### Project 25: Sticky Navbar
 
-Project 28: Github Profiles
+✅ Complete
 
-- Complete
+#### Project 26: Double Vertical Slider
 
-Project 29: Double Click Heart
+✅ Complete
 
-- Complete
+#### Project 27: Toast Notifications
 
-Project 30: Auto Text Effect
+✅ Complete
 
-- Complete
+#### Project 28: Github Profiles
 
-Project 31: Password Generator
+✅ Complete
 
-- Complete
+#### Project 29: Double Click Heart
 
-Project 32: Good, Cheap, Fast Checkboxes
+✅ Complete
 
-- Complete
+#### Project 30: Auto Text Effect
 
-Project 33: Notes App
+✅ Complete
 
-- Complete
+#### Project 31: Password Generator
 
-Project 34: Animated Count Down
+✅ Complete
 
-- Complete
+#### Project 32: Good, Cheap, Fast Checkboxes
 
-Project 35: Image Carousel
+✅ Complete
 
-- Complete
+#### Project 33: Notes App
 
-Project 36: Hoverboard
+✅ Complete
 
-- Complete
+#### Project 34: Animated Count Down
 
-Project 37: Pokedex
+✅ Complete
 
-- Complete
+#### Project 35: Image Carousel
 
-Project 38: Mobile Navigation
+✅ Complete
 
-- Complete
+#### Project 36: Hoverboard
 
-Project 39: Password Strength Background
+✅ Complete
 
-- Complete
+#### Project 37: Pokedex
 
-Project 40: 3D background Boxes
+✅ Complete
 
-- Complete
+#### Project 38: Mobile Navigation
 
-Project 41: Verify Account UI
+✅ Complete
 
-- Complete
+#### Project 39: Password Strength Background
 
-Project 42: Live User Filter
+✅ Complete
 
-- Complete
+#### Project 40: 3D background Boxes
 
-Project 43: Feedback UI Design
+✅ Complete
 
-- Complete
+#### Project 41: Verify Account UI
 
-Project 44: Custom Range Slider
+✅ Complete
 
-- Complete
+#### Project 42: Live User Filter
 
-Project 45: Netflix Navigation
+✅ Complete
 
-- Complete
+#### Project 43: Feedback UI Design
 
-Project 46: Quiz App
+✅ Complete
 
-- Complete
+#### Project 44: Custom Range Slider
 
-Project 47: Testimonial Box Switcher
+✅ Complete
 
-- Complete
+#### Project 45: Netflix Navigation
 
-Project 48: Random Image Feed
+✅ Complete
 
-- Complete
+#### Project 46: Quiz App
 
-Project 49: Todo App
+✅ Complete
 
-- Complete
+#### Project 47: Testimonial Box Switcher
 
-Project 50: Insect Catch Game
+✅ Complete
 
-- Complete
+#### Project 48: Random Image Feed
+
+✅ Complete
+
+#### Project 49: Todo App
+
+✅ Complete
+
+#### Project 50: Insect Catch Game
+
+✅ Complete
 
 ## COURSE COMPLETE!
+
+[Back To The Top](#50-projects-in-50-days)
